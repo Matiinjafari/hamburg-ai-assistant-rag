@@ -1,0 +1,51 @@
+[
+  {
+    "id": "s01",
+    "topic": "Bibliothek: Bücher ausleihen",
+    "question": "Wie kann ich in der Musterstädter Universitätsbibliothek Bücher ausleihen?",
+    "answer": "Mit dem Studierendenausweis am Infoschalter einen kostenlosen Bibliotheksausweis anmelden. Man kann bis zu 10 Bücher für vier Wochen ausleihen, eine Verlängerung ist online möglich.",
+    "answer_type": "explicit_reply",
+    "era_label": "Beispieldaten"
+  },
+  {
+    "id": "s02",
+    "topic": "Bank: Studierendenkonto eröffnen",
+    "question": "Welche Unterlagen brauche ich für ein Studierendenkonto bei der Musterbank?",
+    "answer": "Ausweisdokument und Immatrikulationsbescheinigung. Die Eröffnung läuft online und dauert etwa zehn Minuten, die Karte kommt nach einigen Tagen per Post.",
+    "answer_type": "explicit_reply",
+    "era_label": "Beispieldaten"
+  },
+  {
+    "id": "s03",
+    "topic": "Semesterticket: Erstattung bei Auslandssemester",
+    "question": "Can I get a refund for the semester ticket if I spend a semester abroad?",
+    "answer": "In this example, the student office refunds the ticket if you hand in the confirmation from the host university before the semester starts.",
+    "answer_type": "implicit_context",
+    "note": "Example entry: rules like this differ between universities.",
+    "era_label": "Beispieldaten"
+  },
+  {
+    "id": "s04",
+    "topic": "Mensa: Bezahlung und Preise",
+    "question": "How do I pay in the Musterstadt canteen and what does lunch cost?",
+    "answer": "The canteen accepts the campus card, which you can top up at the terminals in the entrance hall. Main dishes cost between 3 and 5 euros.",
+    "answer_type": "explicit_reply",
+    "era_label": "Beispieldaten"
+  },
+  {
+    "id": "s05",
+    "topic": "Sprachkurs: Anmeldung",
+    "question": "Wo melde ich mich für einen Deutschkurs an und wann beginnen die Kurse?",
+    "answer": "Die Anmeldung läuft online bei der Volkshochschule Musterstadt. Neue Kurse starten im Januar und im Juli.",
+    "answer_type": "explicit_reply",
+    "era_label": "Beispieldaten"
+  },
+  {
+    "id": "s06",
+    "topic": "Uni: Prüfungsanmeldung nach Fristende",
+    "question": "Kann man sich nach Ablauf der Frist noch für eine Klausur anmelden?",
+    "answer": null,
+    "answer_type": "unanswered",
+    "era_label": "Beispieldaten"
+  }
+]
