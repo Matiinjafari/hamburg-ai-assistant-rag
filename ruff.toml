@@ -1,0 +1,14 @@
+# Minimal, pragmatic ruleset: catch actual bugs (undefined names, unused
+# imports/variables, obvious mistakes), not style opinions (import sorting,
+# datetime-timezone-awareness suggestions, etc.). Those add noise without
+# much value for a small project and would make CI fail on things that
+# aren't really wrong.
+[lint]
+select = [
+    "E",   # pycodestyle errors
+    "F",   # pyflakes (unused imports/variables, undefined names, etc.)
+    "W",   # pycodestyle warnings
+]
+ignore = [
+    "E501",  # line too long - not worth failing CI over
+]
